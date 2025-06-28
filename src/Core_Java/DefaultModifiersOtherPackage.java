@@ -1,5 +1,5 @@
 package Core_Java;
-import Concept_Java.DefaultModifiers;
+import AccessModifiers.DefaultModifiers;
 
 class DefaultChild extends DefaultModifiers
 {

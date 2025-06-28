@@ -1,6 +1,6 @@
 package Core_Java;
 
-import Concept_Java.*;  //import package to use public instance variables.
+import AccessModifiers.PubicSpecifiers;
 
 public class PubicSpecifiersOtherPackage {
 public String clg;

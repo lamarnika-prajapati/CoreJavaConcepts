@@ -1,5 +1,5 @@
 package Core_Java;
-import Concept_Java.ProtectedModifiers;
+import AccessModifiers.ProtectedModifiers;
 public class ProtectedModifiersOtherPackage extends ProtectedModifiers
 {
     protected float rep_rate;
